@@ -1,0 +1,38 @@
+.App {
+  width: 500px;
+  height: 300px;
+}
+
+.Simon {
+  display: flex;
+}
+
+.Green {
+  background-color: green;
+  width: 100px;
+  height: 100px;
+}
+
+.Red {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+}
+
+.Yellow {
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+}
+
+.Blue {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+}
+
+.ControlPanel {
+  background-color: grey;
+  width: 100px;
+  height: 100px;
+}
